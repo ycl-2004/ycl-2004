@@ -15,7 +15,7 @@
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/ycl-yichen-lin"><img src="[https://img.shields.io/badge/LinkedIn-3B6EA5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/yichenlin-lyc/)" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/yichenlin-lyc/"><img src="https://img.shields.io/badge/LinkedIn-3B6EA5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:yichen.lin.2004@gmail.com"><img src="https://img.shields.io/badge/Email-B23A48?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://ycl-2004.itch.io/"><img src="https://img.shields.io/badge/itch.io-CB5A78?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io" /></a>
   <a href="https://ycl-2004.github.io/Tutor-Site/Yi-Chen%20Lin%20Resume.pdf"><img src="https://img.shields.io/badge/Résumé-1F2327?style=for-the-badge&logo=readme&logoColor=white" alt="Résumé" /></a>
