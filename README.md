@@ -54,13 +54,12 @@ I'm turning who I am into a personal brand. **YC** isn't a mascot — it's *me a
 
 ### 🛠️ Things I've built · 我做过的东西
 
-A few projects that show how I think — building tools I actually wanted to exist:
+A few things I built because I wanted them to exist — most of them visual, hands-on, and made for daily use:
 
 - 🧠 [**ShareMemory**](https://github.com/ycl-2004/ShareMemory) ⭐ — Project-scoped shared memory so **Claude Code** and **Codex** agents stop forgetting and finally read each other's work. *让两个 AI 编程 Agent 共享同一份项目记忆。*
-- 📡 [**ai-news-radar**](https://github.com/ycl-2004/ai-news-radar) — A 24h AI/tech news radar with GitHub Actions, a live web UI, and a Scout Skill for finding sources. *每天自动追 AI/科技新闻。*
-- 🎞️ [**humanize-ppt**](https://github.com/ycl-2004/humanize-ppt) — An AST-based outline director for **human-centered** AI presentation workflows. *让 AI 做的 PPT 更有人味。*
-- 🚀 [**RocketBoost**](https://github.com/ycl-2004/UnityGame_RocketBoost) — A finished 3D Unity game. *独立做完的一个 3D Unity 小游戏。*
-- 📚 [**Tutor-Site**](https://ycl-2004.github.io/Tutor-Site/) — My tutoring site & portfolio: 4+ years teaching 50+ students, high school to first-year university. *家教网站与作品集。*
+- 🪪 [**Profile**](https://github.com/ycl-2004/Profile) · [live ↗](https://ycl-2004.github.io/Profile/) — My résumé as an interactive infinite canvas: draggable cards, pan & zoom, a minimap, and drawn connections between things I've done. *把简历做成一张可拖拽缩放的无限画布主页。*
+- ✅ [**YC Todo**](https://github.com/ycl-2004/YC_Todo) — A lightweight macOS menubar task & focus app — create tasks, set focus durations, stay distraction-free. Local-first, offline, no account. *常驻菜单栏的极简专注待办 App（Tauri + React）。*
+- 🗂️ [**Browser Organizer**](https://github.com/ycl-2004/Browser_Organizer) — A calm, local-first Chrome new-tab dashboard: favorites, a daily focus planner, and a live view of all your open tabs. *把每个新标签页变成一个安静的本地工作台。*
 
 ---
 
