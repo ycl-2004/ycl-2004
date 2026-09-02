@@ -40,12 +40,12 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://github.com/ycl-2004/Screen-Bridge"><img src="assets/cover-screenbridge.png" alt="Screen Bridge" width="100%" /></a>
-  <h3>Screen Bridge</h3>
-  <p>Turns an iPad into a wireless second display for the Mac, with control staying on the Mac.</p>
+  <a href="https://github.com/ycl-2004/Wisp"><img src="assets/cover-wisp.png" alt="Wisp" width="100%" /></a>
+  <h3>Wisp</h3>
+  <p>A native macOS AI assistant that reads your current screen and browser context when you ask.</p>
   <p>
-    <code>Swift</code> <code>macOS</code> <code>iPadOS</code><br/>
-    <a href="https://github.com/ycl-2004/Screen-Bridge"><b>GitHub ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/ycl-2004/Screen-Bridge/releases/latest"><b>Download ↗</b></a>
+    <code>Swift</code> <code>SwiftUI</code> <code>macOS</code><br/>
+    <a href="https://github.com/ycl-2004/Wisp"><b>GitHub ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/ycl-2004/Wisp/releases/latest"><b>Download ↗</b></a>
   </p>
 </td>
 <td width="50%" valign="top">
@@ -94,8 +94,8 @@
   <sub>Shared project memory for Claude Code and Codex</sub>
 </td>
 <td valign="top">
-  <a href="https://github.com/ycl-2004/yc_Fable5"><b>Fable</b></a><br/>
-  <sub>An operating system for structured agent work</sub>
+  <a href="https://github.com/ycl-2004/Screen-Bridge"><b>Screen Bridge</b></a><br/>
+  <sub>Turns an iPad into a wireless second display for the Mac</sub>
 </td>
 <td valign="top">
   <a href="https://github.com/ycl-2004?tab=repositories"><b>All repositories →</b></a><br/>
