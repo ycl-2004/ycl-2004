@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 140" width="100%" height="140" fill="none">
+  <defs>
+    <style>
+      .bg { fill: #FAF8F5; stroke: #E8E2D9; stroke-width: 1.5; }
+      .vinyl-outer { fill: #2B2D42; }
+      .vinyl-groove { stroke: #3A3D5A; stroke-width: 1; fill: none; }
+      .vinyl-label { fill: #B23A48; }
+      .vinyl-center { fill: #FAF8F5; }
+      .text-title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 700; fill: #1D1E2C; }
+      .text-sub { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 500; fill: #7D8297; }
+      .tag-bg { fill: #F0EAE1; }
+      .tag-text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 11px; font-weight: 600; fill: #B23A48; }
+      .bar { fill: #B23A48; transform-origin: bottom; }
+
+      /* Animations */
+      @keyframes spin {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+      }
+      @keyframes bounce1 {
+        0%, 100% { height: 6px; y: 38px; }
+        50% { height: 28px; y: 16px; }
+      }
+      @keyframes bounce2 {
+        0%, 100% { height: 18px; y: 26px; }
+        50% { height: 8px; y: 36px; }
+      }
+      @keyframes bounce3 {
+        0%, 100% { height: 12px; y: 32px; }
+        50% { height: 32px; y: 12px; }
+      }
+      @keyframes bounce4 {
+        0%, 100% { height: 24px; y: 20px; }
+        50% { height: 10px; y: 34px; }
+      }
+
+      .spin-vinyl {
+        transform-origin: 70px 70px;
+        animation: spin 6s linear infinite;
+      }
+      .b1 { animation: bounce1 1.1s ease-in-out infinite; }
+      .b2 { animation: bounce2 0.9s ease-in-out infinite; }
+      .b3 { animation: bounce3 1.3s ease-in-out infinite; }
+      .b4 { animation: bounce4 0.8s ease-in-out infinite; }
+
+      /* Dark mode support */
+      @media (prefers-color-scheme: dark) {
+        .bg { fill: #161B22; stroke: #30363D; }
+        .text-title { fill: #F0F6FC; }
+        .text-sub { fill: #8B949E; }
+        .tag-bg { fill: #21262D; }
+        .tag-text { fill: #FF7B72; }
+        .bar { fill: #FF7B72; }
+        .vinyl-center { fill: #161B22; }
+        .vinyl-outer { fill: #0D1117; }
+        .vinyl-groove { stroke: #21262D; }
+        .vinyl-label { fill: #DA3633; }
+      }
+    </style>
+  </defs>
+
+  <!-- Container -->
+  <rect x="2" y="2" width="836" height="136" rx="16" class="bg" />
+
+  <!-- Vinyl Record -->
+  <g class="spin-vinyl">
+    <circle cx="70" cy="70" r="46" class="vinyl-outer" />
+    <circle cx="70" cy="70" r="38" class="vinyl-groove" />
+    <circle cx="70" cy="70" r="30" class="vinyl-groove" />
+    <circle cx="70" cy="70" r="22" class="vinyl-groove" />
+    <circle cx="70" cy="70" r="16" class="vinyl-label" />
+    <circle cx="70" cy="70" r="5" class="vinyl-center" />
+  </g>
+
+  <!-- Tonearm needle indicator -->
+  <circle cx="124" cy="36" r="3.5" fill="#B23A48" opacity="0.85" />
+  <line x1="124" y1="36" x2="98" y2="56" stroke="#8B949E" stroke-width="2" stroke-linecap="round" />
+
+  <!-- Track & Info -->
+  <g transform="translate(142, 34)">
+    <!-- Pill Badge -->
+    <rect x="0" y="0" width="180" height="22" rx="11" class="tag-bg" />
+    <circle cx="11" cy="11" r="3.5" fill="#2DA44E" />
+    <text x="22" y="15" class="tag-text">CURRENTLY SOUNDTRACKING</text>
+
+    <!-- Track Title -->
+    <text x="0" y="44" class="text-title">Late Night Synthesis · Ambient &amp; Lo-Fi Textures</text>
+    
+    <!-- Subtitle -->
+    <text x="0" y="66" class="text-sub">When not compiling Swift &amp; AppKit · Logic Pro &amp; Guitar</text>
+  </g>
+
+  <!-- Animated Sound Equalizer (Bars) -->
+  <g transform="translate(680, 50)">
+    <rect x="0" y="20" width="4" height="24" rx="2" class="bar b1" />
+    <rect x="8" y="24" width="4" height="20" rx="2" class="bar b3" />
+    <rect x="16" y="16" width="4" height="28" rx="2" class="bar b2" />
+    <rect x="24" y="22" width="4" height="22" rx="2" class="bar b4" />
+    <rect x="32" y="14" width="4" height="30" rx="2" class="bar b1" />
+    <rect x="40" y="26" width="4" height="18" rx="2" class="bar b3" />
+    <rect x="48" y="18" width="4" height="26" rx="2" class="bar b2" />
+    <rect x="56" y="12" width="4" height="32" rx="2" class="bar b4" />
+    <rect x="64" y="22" width="4" height="22" rx="2" class="bar b1" />
+    <rect x="72" y="15" width="4" height="29" rx="2" class="bar b3" />
+    <rect x="80" y="25" width="4" height="19" rx="2" class="bar b2" />
+    <rect x="88" y="18" width="4" height="26" rx="2" class="bar b4" />
+  </g>
+
+  <!-- Audio Waves Label -->
+  <text x="772" y="112" text-anchor="end" class="text-sub" font-size="11">44.1 kHz · 24-bit</text>
+</svg>

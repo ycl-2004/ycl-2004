@@ -2,13 +2,17 @@
 
 <img src="assets/hero-banner.png" alt="Hi, I'm YC — AI × Software × Product. I build thoughtful tools around everyday friction, and make music when I'm not debugging." width="100%" />
 
-<p>Electrical Engineering at UBC, living between Vancouver and Taiwan.</p>
+<br/>
+
+<a href="#featured-work"><img src="assets/status-widget.svg" alt="macOS Terminal Status" width="100%" /></a>
+
+<br/><br/>
 
 <p>
-  <a href="https://ycl-2004.github.io/Profile/"><img src="https://img.shields.io/badge/Portfolio-B23A48?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://ycl-2004.github.io/Resume/YC-Resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-1A1A2E?style=for-the-badge&logo=readme&logoColor=white" alt="Résumé" /></a>
-  <a href="https://www.linkedin.com/in/yichenlin-lyc/"><img src="https://img.shields.io/badge/LinkedIn-3B6EA5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:yichen.lin.2004@gmail.com"><img src="https://img.shields.io/badge/Email-CB5A78?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://ycl-2004.github.io/Profile/"><img src="https://img.shields.io/badge/✦_Portfolio-B23A48?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>&nbsp;
+  <a href="https://ycl-2004.github.io/Resume/YC-Resume.pdf"><img src="https://img.shields.io/badge/📄_Résumé-1A1A2E?style=for-the-badge&logo=readme&logoColor=white" alt="Résumé" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/yichenlin-lyc/"><img src="https://img.shields.io/badge/LinkedIn-3B6EA5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:yichen.lin.2004@gmail.com"><img src="https://img.shields.io/badge/Email_Me-CB5A78?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 </div>
@@ -62,12 +66,36 @@
 
 ---
 
-## Now
+## AI Focus &amp; Engineering Principles
 
-- 🧠 Exploring agent memory and cross-agent handoff
-- 🧰 Building small macOS tools around everyday friction
-- 🎨 Studying human-centered product design
-- 🎵 Making music, and writing about what I learn along the way
+<div align="center">
+  <img src="assets/ai-workbench.png" alt="YC AI Workbench — Crafting On-Device Intelligence &amp; Agent Systems" width="100%" />
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h4>🧠 Current AI Focus &amp; R&amp;D</h4>
+<ul>
+  <li><b>Agent Memory &amp; Handoff</b>: Designing cross-agent context persistence and stateful memory buses (<a href="https://github.com/ycl-2004/ShareMemory">ShareMemory</a>).</li>
+  <li><b>On-Device Neural Inference</b>: Optimizing WhisperKit, Core ML, and local models for Apple Silicon with zero cloud latency (<a href="https://github.com/ycl-2004/NoType">NoType</a>).</li>
+  <li><b>Context-Aware Ambient AI</b>: Building native assistants that observe active visual and browser environments (<a href="https://github.com/ycl-2004/Wisp">Wisp</a>).</li>
+  <li><b>Hardware-Aware Machine Learning</b>: Bridging my Electrical Engineering foundation (bandwidth, latency, compute budgets) with edge AI execution.</li>
+</ul>
+</td>
+<td width="50%" valign="top">
+<h4>⚡ AI Engineering Principles</h4>
+<ul>
+  <li><b>Local-First &amp; Private</b>: Intelligence belongs near the user. On-device compute guarantees zero telemetry and zero network latency.</li>
+  <li><b>Ambient Context &gt; Prompts</b>: The best AI tools don't force users to craft prompts; they observe active context and act with tactile precision.</li>
+  <li><b>Autonomous Multi-Agent Loops</b>: Shifting from single-turn chat boxes to persistent, collaborative agent handoffs and tool execution.</li>
+  <li><b>Systems Grounding (EE ➔ AI)</b>: Approaching models as physical, compute-constrained systems rather than black-box APIs.</li>
+</ul>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -77,29 +105,29 @@
 <tr>
 <td width="33%" valign="top">
   <a href="https://github.com/ycl-2004/AI-Agent-Projects"><b>AI Agent Projects</b></a><br/>
-  <sub>Agent experiments, prototypes, and workflows</sub>
+  <sub>Agent experiments, autonomous prototypes, and context workflows</sub>
 </td>
 <td width="33%" valign="top">
   <a href="https://github.com/ycl-2004/Browser_Organizer"><b>Browser Organizer</b></a><br/>
-  <sub>A calm Chrome new tab for tabs and sessions</sub>
+  <sub>A calm Chrome new-tab dashboard for active tabs and project sessions</sub>
 </td>
 <td width="33%" valign="top">
   <a href="https://github.com/ycl-2004/YC_Todo"><b>YC Todo</b></a><br/>
-  <sub>Menu-bar tasks and focus, no account needed</sub>
+  <sub>Lightweight menu-bar tasks and timer focus, zero account required</sub>
 </td>
 </tr>
 <tr>
 <td valign="top">
   <a href="https://github.com/ycl-2004/ShareMemory"><b>ShareMemory</b></a><br/>
-  <sub>Shared project memory for Claude Code and Codex</sub>
+  <sub>Shared project memory engine for Claude Code and Codex</sub>
 </td>
 <td valign="top">
   <a href="https://github.com/ycl-2004/Screen-Bridge"><b>Screen Bridge</b></a><br/>
-  <sub>Turns an iPad into a wireless second display for the Mac</sub>
+  <sub>Turns an iPad into a wireless, low-latency second display for Mac</sub>
 </td>
 <td valign="top">
-  <a href="https://github.com/ycl-2004?tab=repositories"><b>All repositories →</b></a><br/>
-  <sub>Everything else I keep in public</sub>
+  <a href="https://github.com/ycl-2004?tab=repositories"><b>All Repositories →</b></a><br/>
+  <sub>Everything else I build and share in the open</sub>
 </td>
 </tr>
 </table>
@@ -108,13 +136,21 @@
 
 ## Beyond code
 
-I love **music**, create **visual work**, and **share** what I learn along the way.
+<p>
+  When I'm not training local models or profiling macOS runtimes, I produce soundscapes, design visual narratives, and explore the intersection of human emotion and generative creativity.
+</p>
 
 <p>
-  <a href="https://ycl-2004.github.io/YC/"><b>YC ↗</b></a> &nbsp;·&nbsp;
-  <a href="https://github.com/ycl-2004/YC_IP"><b>YC_IP ↗</b></a> &nbsp;·&nbsp;
-  <a href="https://www.instagram.com/linyc_04/"><b>Instagram ↗</b></a>
+  <a href="https://ycl-2004.github.io/Profile/"><b>✦ YC Portfolio ↗</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/ycl-2004/YC_IP"><b>🎨 YC_IP Universe ↗</b></a> &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/linyc_04/"><b>📷 Instagram ↗</b></a>
 </p>
+
+<br/>
+
+<a href="https://ycl-2004.github.io/Profile/"><img src="assets/music-player.svg" alt="YC Music Player" width="100%" /></a>
+
+<br/><br/>
 
 <div align="center">
 
