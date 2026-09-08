@@ -25,7 +25,7 @@
 <tr>
 <td width="50%" valign="top" align="center">
   <a href="https://github.com/ycl-2004/Orbit"><img src="assets/cover-orbit.png" alt="Orbit — Hold. Flick. Switch." width="100%" /></a>
-  <a href="https://github.com/ycl-2004/Orbit"><img src="assets/cap-orbit.svg" alt="Orbit: a native macOS radial app switcher, built with Swift, AppKit, macOS." width="100%" /></a>
+  <a href="https://github.com/ycl-2004/Orbit"><img src="assets/cap-orbit-v2.svg" alt="Orbit: a native macOS radial app switcher, built with Swift, AppKit, macOS." width="100%" /></a>
   <div align="center">
     <a href="https://github.com/ycl-2004/Orbit"><img src="assets/btn-github-orbit.svg" alt="GitHub" height="26" /></a> &nbsp;
     <a href="https://github.com/ycl-2004/Orbit/releases/latest"><img src="assets/btn-download.svg" alt="Download" height="26" /></a>
@@ -33,7 +33,7 @@
 </td>
 <td width="50%" valign="top" align="center">
   <a href="https://github.com/ycl-2004/NoType"><img src="assets/cover-notype.png" alt="NoType — Speak naturally. Keep typing." width="100%" /></a>
-  <a href="https://github.com/ycl-2004/NoType"><img src="assets/cap-notype.svg" alt="NoType: private, local dictation for macOS that handles mixed Chinese and English speech. Built with Swift, WhisperKit, Core ML." width="100%" /></a>
+  <a href="https://github.com/ycl-2004/NoType"><img src="assets/cap-notype-v2.svg" alt="NoType: private, local dictation for macOS that handles mixed Chinese and English speech. Built with Swift, WhisperKit, Core ML." width="100%" /></a>
   <div align="center">
     <a href="https://github.com/ycl-2004/NoType"><img src="assets/btn-github-notype.svg" alt="GitHub" height="26" /></a> &nbsp;
     <a href="https://github.com/ycl-2004/NoType/releases/latest"><img src="assets/btn-download.svg" alt="Download" height="26" /></a>
@@ -43,7 +43,7 @@
 <tr>
 <td width="50%" valign="top" align="center">
   <a href="https://github.com/ycl-2004/Wisp"><img src="assets/cover-wisp.png" alt="Wisp — See it. Ask it. Keep moving." width="100%" /></a>
-  <a href="https://github.com/ycl-2004/Wisp"><img src="assets/cap-wisp.svg" alt="Wisp: a native macOS AI assistant that reads your current screen and browser context when you ask. Built with Swift, SwiftUI, macOS." width="100%" /></a>
+  <a href="https://github.com/ycl-2004/Wisp"><img src="assets/cap-wisp-v2.svg" alt="Wisp: a native macOS AI assistant that reads your current screen and browser context when you ask. Built with Swift, SwiftUI, macOS." width="100%" /></a>
   <div align="center">
     <a href="https://github.com/ycl-2004/Wisp"><img src="assets/btn-github-wisp.svg" alt="GitHub" height="26" /></a> &nbsp;
     <a href="https://github.com/ycl-2004/Wisp/releases/latest"><img src="assets/btn-download.svg" alt="Download" height="26" /></a>
@@ -51,7 +51,7 @@
 </td>
 <td width="50%" valign="top" align="center">
   <a href="https://github.com/ycl-2004/FoldPeek"><img src="assets/cover-foldpeek.png" alt="FoldPeek — See inside. Stay in Finder." width="100%" /></a>
-  <a href="https://github.com/ycl-2004/FoldPeek"><img src="assets/cap-foldpeek.svg" alt="FoldPeek: browse folders and preview files directly inside Finder Quick Look. Built with Swift, AppKit, Quick Look." width="100%" /></a>
+  <a href="https://github.com/ycl-2004/FoldPeek"><img src="assets/cap-foldpeek-v2.svg" alt="FoldPeek: browse folders and preview files directly inside Finder Quick Look. Built with Swift, AppKit, Quick Look." width="100%" /></a>
   <div align="center">
     <a href="https://github.com/ycl-2004/FoldPeek"><img src="assets/btn-github-foldpeek.svg" alt="GitHub" height="26" /></a> &nbsp;
     <a href="https://github.com/ycl-2004/FoldPeek/releases/latest"><img src="assets/btn-download.svg" alt="Download" height="26" /></a>
