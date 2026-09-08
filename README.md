@@ -23,41 +23,37 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://github.com/ycl-2004/Orbit"><img src="assets/cover-orbit.png" alt="Orbit" width="100%" /></a>
-  <h3>Orbit</h3>
-  <p>A native macOS radial app switcher. Hold a key, flick toward an app, release.</p>
+  <a href="https://github.com/ycl-2004/Orbit"><img src="assets/cover-orbit.png" alt="Orbit — Hold. Flick. Switch." width="100%" /></a>
+  <a href="https://github.com/ycl-2004/Orbit"><img src="assets/cap-orbit.svg" alt="Orbit: a native macOS radial app switcher, built with Swift, AppKit, macOS." width="100%" /></a>
   <p>
-    <code>Swift</code> <code>AppKit</code> <code>macOS</code><br/>
-    <a href="https://github.com/ycl-2004/Orbit"><b>GitHub ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/ycl-2004/Orbit/releases/latest"><b>Download ↗</b></a>
+    <a href="https://github.com/ycl-2004/Orbit"><img src="assets/btn-github-orbit.svg" alt="GitHub" width="101" height="36" /></a>
+    <a href="https://github.com/ycl-2004/Orbit/releases/latest"><img src="assets/btn-download.svg" alt="Download" width="114" height="36" /></a>
   </p>
 </td>
 <td width="50%" valign="top">
-  <a href="https://github.com/ycl-2004/NoType"><img src="assets/cover-notype.png" alt="NoType" width="100%" /></a>
-  <h3>NoType</h3>
-  <p>Private, local dictation for macOS that handles mixed Chinese and English speech.</p>
+  <a href="https://github.com/ycl-2004/NoType"><img src="assets/cover-notype.png" alt="NoType — Speak naturally. Keep typing." width="100%" /></a>
+  <a href="https://github.com/ycl-2004/NoType"><img src="assets/cap-notype.svg" alt="NoType: private, local dictation for macOS that handles mixed Chinese and English speech. Built with Swift, WhisperKit, Core ML." width="100%" /></a>
   <p>
-    <code>Swift</code> <code>WhisperKit</code> <code>Core ML</code><br/>
-    <a href="https://github.com/ycl-2004/NoType"><b>GitHub ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/ycl-2004/NoType/releases/latest"><b>Download ↗</b></a>
+    <a href="https://github.com/ycl-2004/NoType"><img src="assets/btn-github-notype.svg" alt="GitHub" width="101" height="36" /></a>
+    <a href="https://github.com/ycl-2004/NoType/releases/latest"><img src="assets/btn-download.svg" alt="Download" width="114" height="36" /></a>
   </p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://github.com/ycl-2004/Wisp"><img src="assets/cover-wisp.png" alt="Wisp" width="100%" /></a>
-  <h3>Wisp</h3>
-  <p>A native macOS AI assistant that reads your current screen and browser context when you ask.</p>
+  <a href="https://github.com/ycl-2004/Wisp"><img src="assets/cover-wisp.png" alt="Wisp — See it. Ask it. Keep moving." width="100%" /></a>
+  <a href="https://github.com/ycl-2004/Wisp"><img src="assets/cap-wisp.svg" alt="Wisp: a native macOS AI assistant that reads your current screen and browser context when you ask. Built with Swift, SwiftUI, macOS." width="100%" /></a>
   <p>
-    <code>Swift</code> <code>SwiftUI</code> <code>macOS</code><br/>
-    <a href="https://github.com/ycl-2004/Wisp"><b>GitHub ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/ycl-2004/Wisp/releases/latest"><b>Download ↗</b></a>
+    <a href="https://github.com/ycl-2004/Wisp"><img src="assets/btn-github-wisp.svg" alt="GitHub" width="101" height="36" /></a>
+    <a href="https://github.com/ycl-2004/Wisp/releases/latest"><img src="assets/btn-download.svg" alt="Download" width="114" height="36" /></a>
   </p>
 </td>
 <td width="50%" valign="top">
-  <a href="https://github.com/ycl-2004/FoldPeek"><img src="assets/cover-foldpeek.png" alt="FoldPeek" width="100%" /></a>
-  <h3>FoldPeek</h3>
-  <p>Browse folders and preview files directly inside Finder Quick Look, without opening another window.</p>
+  <a href="https://github.com/ycl-2004/FoldPeek"><img src="assets/cover-foldpeek.png" alt="FoldPeek — See inside. Stay in Finder." width="100%" /></a>
+  <a href="https://github.com/ycl-2004/FoldPeek"><img src="assets/cap-foldpeek.svg" alt="FoldPeek: browse folders and preview files directly inside Finder Quick Look. Built with Swift, AppKit, Quick Look." width="100%" /></a>
   <p>
-    <code>Swift</code> <code>AppKit</code> <code>Quick Look</code><br/>
-    <a href="https://github.com/ycl-2004/FoldPeek"><b>GitHub ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/ycl-2004/FoldPeek/releases/latest"><b>Download ↗</b></a>
+    <a href="https://github.com/ycl-2004/FoldPeek"><img src="assets/btn-github-foldpeek.svg" alt="GitHub" width="101" height="36" /></a>
+    <a href="https://github.com/ycl-2004/FoldPeek/releases/latest"><img src="assets/btn-download.svg" alt="Download" width="114" height="36" /></a>
   </p>
 </td>
 </tr>
@@ -69,30 +65,24 @@
 <table>
 <tr>
 <td width="33%" valign="top">
-  <a href="https://github.com/ycl-2004/AI-Agent-Projects"><b>AI Agent Projects</b></a><br/>
-  <sub>Agent experiments, autonomous prototypes, and context workflows</sub>
+  <a href="https://github.com/ycl-2004/AI-Agent-Projects"><img src="assets/tile-aiagent.svg" alt="AI Agent Projects — agent experiments and context workflows" width="100%" /></a>
 </td>
 <td width="33%" valign="top">
-  <a href="https://github.com/ycl-2004/Browser_Organizer"><b>Browser Organizer</b></a><br/>
-  <sub>A calm Chrome new-tab dashboard for active tabs and project sessions</sub>
+  <a href="https://github.com/ycl-2004/Browser_Organizer"><img src="assets/tile-browser.svg" alt="Browser Organizer — a calm Chrome new-tab dashboard" width="100%" /></a>
 </td>
 <td width="33%" valign="top">
-  <a href="https://github.com/ycl-2004/YC_Todo"><b>YC Todo</b></a><br/>
-  <sub>Lightweight menu-bar tasks and timer focus, zero account required</sub>
+  <a href="https://github.com/ycl-2004/YC_Todo"><img src="assets/tile-todo.svg" alt="YC Todo — menu-bar tasks and timer focus" width="100%" /></a>
 </td>
 </tr>
 <tr>
 <td valign="top">
-  <a href="https://github.com/ycl-2004/ShareMemory"><b>ShareMemory</b></a><br/>
-  <sub>Shared project memory engine for Claude Code and Codex</sub>
+  <a href="https://github.com/ycl-2004/ShareMemory"><img src="assets/tile-sharememory.svg" alt="ShareMemory — shared memory for Claude Code" width="100%" /></a>
 </td>
 <td valign="top">
-  <a href="https://github.com/ycl-2004/Screen-Bridge"><b>Screen Bridge</b></a><br/>
-  <sub>Turns an iPad into a wireless, low-latency second display for Mac</sub>
+  <a href="https://github.com/ycl-2004/Screen-Bridge"><img src="assets/tile-screenbridge.svg" alt="Screen Bridge — iPad as a wireless Mac display" width="100%" /></a>
 </td>
 <td valign="top">
-  <a href="https://github.com/ycl-2004?tab=repositories"><b>All Repositories →</b></a><br/>
-  <sub>Everything else I build and share in the open</sub>
+  <a href="https://github.com/ycl-2004?tab=repositories"><img src="assets/tile-allrepos.svg" alt="All Repositories — everything else, in the open" width="100%" /></a>
 </td>
 </tr>
 </table>
@@ -101,11 +91,12 @@
 ## Under the hood
 
 <img src="assets/status-widget.svg" alt="On the workbench: on-device AI and agent memory." width="100%" />
-
-**Native feel. Useful intelligence. Less friction.** I’m exploring how local models and agent systems can fit into the tools we already use.
+<img src="assets/principles.svg" alt="Why: native feel, useful intelligence, less friction." width="100%" />
 
 <details>
-<summary><b>What I’m exploring</b> — local models, context &amp; agent memory</summary>
+<summary><img src="assets/banner-explore.svg" alt="What I'm exploring — local models, context and agent memory" width="100%" /></summary>
+
+I’m exploring how local models and agent systems can fit into the tools we already use.
 
 - **Agent memory & handoff.** Keeping project context useful across sessions and tools with [ShareMemory](https://github.com/ycl-2004/ShareMemory).
 - **On-device inference.** Working with WhisperKit, Core ML, and Apple Silicon in [NoType](https://github.com/ycl-2004/NoType).
@@ -117,7 +108,7 @@
 </details>
 
 <details>
-<summary><b>How I build</b> — a few principles behind the work</summary>
+<summary><img src="assets/banner-build.svg" alt="How I build — a few principles behind the work" width="100%" /></summary>
 
 - **Keep data close.** Prefer on-device processing where it makes sense, and make network dependencies explicit.
 - **Keep the user in control.** Context should be intentional; actions should be understandable.
@@ -128,21 +119,20 @@
 
 ## Beyond code
 
-When I’m not building macOS tools, I’m making soundscapes, shaping visual stories, and exploring how technology can carry a little more feeling.
-
-**On the creative desk:** Logic Pro · Guitar · Ambient &amp; Lo-Fi textures
-
-Music, visual design, and generative creativity are part of the same practice: try an idea, listen closely, and keep refining.
-
 <a href="https://ycl-2004.github.io/Profile/"><img src="assets/music-player.svg" alt="YC music desk: Late Night Synthesis, ambient and lo-fi textures, Logic Pro and guitar. Animated vinyl and visualizer; open the creative portfolio." width="100%" /></a>
 
+<img src="assets/desk-strip.svg" alt="Off the clock — Logic Pro, Guitar, Ambient and Lo-Fi textures." width="100%" />
+
 <p>
-  <a href="https://ycl-2004.github.io/Profile/"><b>Creative work ↗</b></a> &nbsp;·&nbsp;
-  <a href="https://github.com/ycl-2004/YC_IP"><b>YC_IP Universe ↗</b></a> &nbsp;·&nbsp;
-  <a href="https://www.instagram.com/linyc_04/">Instagram ↗</a>
+  <a href="https://ycl-2004.github.io/Profile/"><img src="assets/btn-creative.svg" alt="Creative work" width="147" height="36" /></a>
+  <a href="https://github.com/ycl-2004/YC_IP"><img src="assets/btn-ycip.svg" alt="YC_IP Universe" width="154" height="36" /></a>
+  <a href="https://www.instagram.com/linyc_04/"><img src="assets/btn-instagram.svg" alt="Instagram" width="121" height="36" /></a>
 </p>
 
 ---
 
-<p align="center"><b>Love life. Work hard. Be kind.</b><br/><sub>认真生活 · 浪漫创作</sub></p>
-<p align="center"><a href="mailto:yichen.lin.2004@gmail.com">Say hello ↗</a> &nbsp;·&nbsp; <a href="#top">Back to top ↑</a></p>
+<p align="center"><img src="assets/footer-banner.png" alt="Love Life · Work Hard · Be Kind — 认真生活 · 浪漫创作" width="560" /></p>
+<p align="center">
+  <a href="mailto:yichen.lin.2004@gmail.com"><img src="assets/btn-hello.svg" alt="Say hello" width="121" height="36" /></a>
+  <a href="#top"><img src="assets/btn-top.svg" alt="Back to top" width="134" height="36" /></a>
+</p>
