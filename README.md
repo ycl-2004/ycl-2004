@@ -1,23 +1,23 @@
+<a name="top"></a>
+
 <div align="center">
 
-<img src="assets/hero-banner.png" alt="Hi, I'm YC — AI × Software × Product. I build thoughtful tools around everyday friction, and make music when I'm not debugging." width="100%" />
-
-<br/>
-
-<a href="#featured-work"><img src="assets/status-widget.svg" alt="macOS Terminal Status" width="100%" /></a>
-
-<br/><br/>
+<img src="assets/hero-banner-v2.png" alt="Hi, I'm YC. Small tools. Thoughtfully built. AI × macOS × everyday life." width="100%" />
 
 <p>
-  <a href="https://ycl-2004.github.io/Profile/"><img src="https://img.shields.io/badge/✦_Portfolio-B23A48?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>&nbsp;
-  <a href="https://ycl-2004.github.io/Resume/YC-Resume.pdf"><img src="https://img.shields.io/badge/📄_Résumé-1A1A2E?style=for-the-badge&logo=readme&logoColor=white" alt="Résumé" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/yichenlin-lyc/"><img src="https://img.shields.io/badge/LinkedIn-3B6EA5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:yichen.lin.2004@gmail.com"><img src="https://img.shields.io/badge/Email_Me-CB5A78?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="#featured-work"><b>Explore the work ↓</b></a> &nbsp; / &nbsp;
+  <a href="#under-the-hood">Under the hood</a> &nbsp; / &nbsp;
+  <a href="#beyond-code">Beyond code</a>
+</p>
+
+<p>
+  <a href="https://ycl-2004.github.io/Profile/"><b>Portfolio ↗</b></a> &nbsp;·&nbsp;
+  <a href="https://ycl-2004.github.io/Resume/YC-Resume.pdf">Résumé</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/yichenlin-lyc/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:yichen.lin.2004@gmail.com">Email me</a>
 </p>
 
 </div>
-
----
 
 ## Featured Work
 
@@ -64,40 +64,6 @@
 </tr>
 </table>
 
----
-
-## AI Focus &amp; Engineering Principles
-
-<div align="center">
-  <img src="assets/ai-workbench.png" alt="YC AI Workbench — Crafting On-Device Intelligence &amp; Agent Systems" width="100%" />
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<h4>🧠 Current AI Focus &amp; R&amp;D</h4>
-<ul>
-  <li><b>Agent Memory &amp; Handoff</b>: Designing cross-agent context persistence and stateful memory buses (<a href="https://github.com/ycl-2004/ShareMemory">ShareMemory</a>).</li>
-  <li><b>On-Device Neural Inference</b>: Optimizing WhisperKit, Core ML, and local models for Apple Silicon with zero cloud latency (<a href="https://github.com/ycl-2004/NoType">NoType</a>).</li>
-  <li><b>Context-Aware Ambient AI</b>: Building native assistants that observe active visual and browser environments (<a href="https://github.com/ycl-2004/Wisp">Wisp</a>).</li>
-  <li><b>Hardware-Aware Machine Learning</b>: Bridging my Electrical Engineering foundation (bandwidth, latency, compute budgets) with edge AI execution.</li>
-</ul>
-</td>
-<td width="50%" valign="top">
-<h4>⚡ AI Engineering Principles</h4>
-<ul>
-  <li><b>Local-First &amp; Private</b>: Intelligence belongs near the user. On-device compute guarantees zero telemetry and zero network latency.</li>
-  <li><b>Ambient Context &gt; Prompts</b>: The best AI tools don't force users to craft prompts; they observe active context and act with tactile precision.</li>
-  <li><b>Autonomous Multi-Agent Loops</b>: Shifting from single-turn chat boxes to persistent, collaborative agent handoffs and tool execution.</li>
-  <li><b>Systems Grounding (EE ➔ AI)</b>: Approaching models as physical, compute-constrained systems rather than black-box APIs.</li>
-</ul>
-</td>
-</tr>
-</table>
-
----
 
 ## More things I've made
 
@@ -132,28 +98,46 @@
 </tr>
 </table>
 
----
+
+## Under the hood
+
+<img src="assets/status-widget.svg" alt="On the workbench: on-device AI and agent memory." width="100%" />
+
+**Native feel. Useful intelligence. Less friction.** I’m exploring how local models and agent systems can fit into the tools we already use.
+
+<details>
+<summary><b>What I’m exploring</b> — local models, context &amp; agent memory</summary>
+
+- **Agent memory & handoff.** Keeping project context useful across sessions and tools with [ShareMemory](https://github.com/ycl-2004/ShareMemory).
+- **On-device inference.** Working with WhisperKit, Core ML, and Apple Silicon in [NoType](https://github.com/ycl-2004/NoType).
+- **Context-aware assistance.** Bringing screen and browser context into [Wisp](https://github.com/ycl-2004/Wisp) when the user asks.
+- **Hardware-aware engineering.** Thinking through latency, memory, and compute budgets alongside model quality.
+
+</details>
+
+<details>
+<summary><b>How I build</b> — a few principles behind the work</summary>
+
+- **Keep data close.** Prefer on-device processing where it makes sense, and make network dependencies explicit.
+- **Keep the user in control.** Context should be intentional; actions should be understandable.
+- **Make handoffs explicit.** Give agents useful state, clear boundaries, and outcomes that can be checked.
+- **Sweat the small interactions.** A shortcut, a preview, or one less window can make a tool worth keeping.
+
+</details>
 
 ## Beyond code
 
-<p>
-  When I'm not training local models or profiling macOS runtimes, I produce soundscapes, design visual narratives, and explore the intersection of human emotion and generative creativity.
-</p>
+Music, visual storytelling, and the things I learn while making both.
+
+<a href="https://ycl-2004.github.io/Profile/"><img src="assets/music-player.svg" alt="Off the clock: music and visual stories. Explore my creative work on the portfolio." width="100%" /></a>
 
 <p>
-  <a href="https://ycl-2004.github.io/Profile/"><b>✦ YC Portfolio ↗</b></a> &nbsp;·&nbsp;
-  <a href="https://github.com/ycl-2004/YC_IP"><b>🎨 YC_IP Universe ↗</b></a> &nbsp;·&nbsp;
-  <a href="https://www.instagram.com/linyc_04/"><b>📷 Instagram ↗</b></a>
+  <a href="https://ycl-2004.github.io/Profile/"><b>Creative work ↗</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/ycl-2004/YC_IP"><b>YC_IP Universe ↗</b></a> &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/linyc_04/">Instagram ↗</a>
 </p>
 
-<br/>
+---
 
-<a href="https://ycl-2004.github.io/Profile/"><img src="assets/music-player.svg" alt="YC Music Player" width="100%" /></a>
-
-<br/><br/>
-
-<div align="center">
-
-<img src="assets/footer-banner.png" alt="Love Life · Work Hard · Be Kind — yc 星辰 · 认真生活 | 浪漫创作" width="100%" />
-
-</div>
+<p align="center"><b>Love life. Work hard. Be kind.</b><br/><sub>认真生活 · 浪漫创作</sub></p>
+<p align="center"><a href="mailto:yichen.lin.2004@gmail.com">Say hello ↗</a> &nbsp;·&nbsp; <a href="#top">Back to top ↑</a></p>
