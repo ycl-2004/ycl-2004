@@ -15,15 +15,15 @@
     }
     @media (prefers-reduced-motion: reduce) { .anim { animation: none; } }
   </style>
+  <text class="ink" x="210" y="22" text-anchor="middle" font-size="17" font-weight="800" letter-spacing="-0.4">FoldPeek</text>
   <g class="anim">
-    <path class="a-blush" fill="none" stroke-width="1.4" transform="translate(78 14) scale(0.65)" d="M0 -11 L2.8 -2.8 L11 0 L2.8 2.8 L0 11 L-2.8 2.8 L-11 0 L-2.8 -2.8 Z" />
+    <path class="a-blush" fill="none" stroke-width="1.4" transform="translate(256 15) scale(0.65)" d="M0 -11 L2.8 -2.8 L11 0 L2.8 2.8 L0 11 L-2.8 2.8 L-11 0 L-2.8 -2.8 Z" />
   </g>
-  <text class="ink" x="2" y="20" font-size="17" font-weight="800" letter-spacing="-0.4">FoldPeek</text>
-  <text class="muted" x="2" y="40" font-size="12.5">Preview files inside Finder Quick Look without opening windows.</text>
-  <rect class="s-blush" x="2" y="54" width="42" height="19" rx="4.5" />
-  <text class="a-blush" x="23.0" y="67" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="10" font-weight="600">Swift</text>
-  <rect class="s-blush" x="50" y="54" width="50" height="19" rx="4.5" />
-  <text class="a-blush" x="75.0" y="67" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="10" font-weight="600">AppKit</text>
-  <rect class="s-blush" x="106" y="54" width="68" height="19" rx="4.5" />
-  <text class="a-blush" x="140.0" y="67" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="10" font-weight="600">Quick Look</text>
+  <text class="muted" x="210" y="41" text-anchor="middle" font-size="12.5">Preview files inside Finder Quick Look without opening windows.</text>
+  <rect class="s-blush" x="124.0" y="54" width="42" height="19" rx="4.5" />
+  <text class="a-blush" x="145.0" y="67" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="10" font-weight="600">Swift</text>
+  <rect class="s-blush" x="172.0" y="54" width="50" height="19" rx="4.5" />
+  <text class="a-blush" x="197.0" y="67" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="10" font-weight="600">AppKit</text>
+  <rect class="s-blush" x="228.0" y="54" width="68" height="19" rx="4.5" />
+  <text class="a-blush" x="262.0" y="67" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="10" font-weight="600">Quick Look</text>
 </svg>
