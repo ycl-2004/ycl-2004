@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="136" height="36" viewBox="0 0 136 36" role="img" aria-labelledby="title">
+<title id="title">Beyond code</title>
+<style>.bg{fill:#FFFDF8;stroke:#E3DDD0}.fg{color:#9F3754}@media(prefers-color-scheme:dark){.bg{fill:#1A1A2E;stroke:#4A4A5A}.fg{color:#ECB2C0}}</style>
+<rect class="bg" x=".5" y=".5" width="135" height="35" rx="7"/>
+<g class="fg"><g transform="translate(12 8)" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M7 15V4l11-2v11M7 7l11-2"/><ellipse cx="4" cy="16" rx="3" ry="2"/><ellipse cx="15" cy="14" rx="3" ry="2"/></g>
+<text x="40" y="23" fill="currentColor" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" font-weight="600">Beyond code</text></g>
+</svg>

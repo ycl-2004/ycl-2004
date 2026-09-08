@@ -5,16 +5,15 @@
 <img src="assets/hero-banner-v2.png" alt="Hi, I'm YC. Small tools. Thoughtfully built. AI × macOS × everyday life." width="100%" />
 
 <p>
-  <a href="#featured-work"><b>Explore the work ↓</b></a> &nbsp; / &nbsp;
-  <a href="#under-the-hood">Under the hood</a> &nbsp; / &nbsp;
-  <a href="#beyond-code">Beyond code</a>
+  <a href="#featured-work"><img src="assets/links/work.svg" alt="Explore work" width="132" height="36" /></a>
+  <a href="#under-the-hood"><img src="assets/links/hood.svg" alt="Under the hood" width="148" height="36" /></a>
+  <a href="#beyond-code"><img src="assets/links/music.svg" alt="Beyond code" width="136" height="36" /></a>
 </p>
-
 <p>
-  <a href="https://ycl-2004.github.io/Profile/"><b>Portfolio ↗</b></a> &nbsp;·&nbsp;
-  <a href="https://ycl-2004.github.io/Resume/YC-Resume.pdf">Résumé</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/yichenlin-lyc/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:yichen.lin.2004@gmail.com">Email me</a>
+  <a href="https://ycl-2004.github.io/Profile/"><img src="assets/links/portfolio.svg" alt="Portfolio" width="130" height="36" /></a>
+  <a href="https://ycl-2004.github.io/Resume/YC-Resume.pdf"><img src="assets/links/resume.svg" alt="Résumé" width="120" height="36" /></a>
+  <a href="https://www.linkedin.com/in/yichenlin-lyc/"><img src="assets/links/linkedin.svg" alt="LinkedIn" width="126" height="36" /></a>
+  <a href="mailto:yichen.lin.2004@gmail.com"><img src="assets/links/email.svg" alt="Email me" width="132" height="36" /></a>
 </p>
 
 </div>
@@ -113,6 +112,8 @@
 - **Context-aware assistance.** Bringing screen and browser context into [Wisp](https://github.com/ycl-2004/Wisp) when the user asks.
 - **Hardware-aware engineering.** Thinking through latency, memory, and compute budgets alongside model quality.
 
+<p align="center"><img src="assets/ai-workbench.png" alt="YC working at an AI workbench, exploring on-device intelligence." width="480" /></p>
+
 </details>
 
 <details>
@@ -127,9 +128,13 @@
 
 ## Beyond code
 
-Music, visual storytelling, and the things I learn while making both.
+When I’m not building macOS tools, I’m making soundscapes, shaping visual stories, and exploring how technology can carry a little more feeling.
 
-<a href="https://ycl-2004.github.io/Profile/"><img src="assets/music-player.svg" alt="Off the clock: music and visual stories. Explore my creative work on the portfolio." width="100%" /></a>
+**On the creative desk:** Logic Pro · Guitar · Ambient &amp; Lo-Fi textures
+
+Music, visual design, and generative creativity are part of the same practice: try an idea, listen closely, and keep refining.
+
+<a href="https://ycl-2004.github.io/Profile/"><img src="assets/music-player.svg" alt="YC music desk: Late Night Synthesis, ambient and lo-fi textures, Logic Pro and guitar. Animated vinyl and visualizer; open the creative portfolio." width="100%" /></a>
 
 <p>
   <a href="https://ycl-2004.github.io/Profile/"><b>Creative work ↗</b></a> &nbsp;·&nbsp;
