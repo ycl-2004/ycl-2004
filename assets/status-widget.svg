@@ -1,18 +1,60 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 58" fill="none" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 68" fill="none" role="img" aria-labelledby="title desc">
   <title id="title">On the workbench</title>
-  <desc id="desc">On-device AI and agent memory. YC's current areas of exploration.</desc>
+  <desc id="desc">On-device AI, agent memory, and core principles.</desc>
   <style>
-    .surface{fill:#FAF8F5;stroke:#E8E2D9}.label{fill:#B23A48}.text{fill:#2B2D42}
-    text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;font-size:16px}
-    .cursor{fill:#B23A48;animation:blink 1s step-end 4}
-    @keyframes blink{50%{opacity:0}}
-    @media(prefers-color-scheme:dark){.surface{fill:#161B22;stroke:#30363D}.label,.cursor{fill:#F08E98}.text{fill:#E6EDF3}}
-    @media(max-width:400px){text{font-size:23px}.label{font-size:19px}.cursor{display:none}text:last-child{display:none}}
-    @media(prefers-reduced-motion:reduce){.cursor{animation:none}}
+    text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+    .surface { fill: #FAF8F5; stroke: #E8E2D9; }
+    .ink { fill: #1A1A2E; }
+    .muted { fill: #626272; }
+    .wine { fill: #B23A48; }
+    .s-wine { fill: #F4D9DC; }
+    .a-blush { fill: #CB5A78; }
+    .s-blush { fill: #F6D7DE; }
+    .a-denim { fill: #3B6EA5; }
+    .s-denim { fill: #DCE7F2; }
+    .a-sage { fill: #547F5E; }
+    .s-sage { fill: #E7EFE7; }
+    .divider { stroke: #E8E2D9; }
+    .cursor { fill: #B23A48; animation: blink 1s step-end infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-color-scheme: dark) {
+      .surface { fill: #161B22; stroke: #30363D; }
+      .ink { fill: #E6EDF3; }
+      .muted { fill: #8B949E; }
+      .wine, .cursor { fill: #F08E98; }
+      .s-wine { fill: #4E1820; }
+      .a-blush { fill: #ECB2C0; }
+      .s-blush { fill: #4A2030; }
+      .a-denim { fill: #9DBDE0; }
+      .s-denim { fill: #1F3550; }
+      .a-sage { fill: #9CC4A4; }
+      .s-sage { fill: #22331F; }
+      .divider { stroke: #30363D; }
+    }
+    @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
   </style>
-  <rect class="surface" x=".5" y=".5" width="639" height="57" rx="10"/>
-  <text class="label" x="20" y="35" font-weight="700">~/building</text>
-  <text class="text" x="120" y="35">Local AI · Agent memory</text>
-  <rect class="cursor" x="315" y="22" width="7" height="16" rx="1"/>
-  <text class="label" x="617" y="35" text-anchor="end" font-size="12">IN PROGRESS</text>
+  <rect class="surface" x=".5" y=".5" width="859" height="67" rx="9" />
+  
+  <!-- Row 1: Building Status -->
+  <text class="wine" x="18" y="26" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" font-weight="700">~/building</text>
+  <text class="ink" x="110" y="26" font-size="12.5" font-weight="500">Local AI · Agent memory</text>
+  <rect class="cursor" x="266" y="15" width="5.5" height="13" rx="1" />
+  
+  <rect class="s-wine" x="756" y="13" width="86" height="20" rx="10" />
+  <text class="wine" x="799" y="27" text-anchor="middle" font-size="10" font-weight="700" letter-spacing="0.5">IN PROGRESS</text>
+  
+  <!-- Divider -->
+  <line class="divider" x1="18" y1="38" x2="842" y2="38" stroke-width="1" opacity="0.6" />
+  
+  <!-- Row 2: Principles -->
+  <text class="muted" x="18" y="55" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5" font-weight="600">~/why</text>
+  
+  <rect class="s-blush" x="110" y="43" width="82" height="18" rx="9" />
+  <text class="a-blush" x="151" y="56" text-anchor="middle" font-size="10.5" font-weight="600">Native feel</text>
+  
+  <rect class="s-denim" x="200" y="43" width="126" height="18" rx="9" />
+  <text class="a-denim" x="263" y="56" text-anchor="middle" font-size="10.5" font-weight="600">Useful intelligence</text>
+  
+  <rect class="s-sage" x="334" y="43" width="86" height="18" rx="9" />
+  <text class="a-sage" x="377" y="56" text-anchor="middle" font-size="10.5" font-weight="600">Less friction</text>
 </svg>
